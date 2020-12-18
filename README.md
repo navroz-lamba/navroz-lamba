@@ -9,7 +9,9 @@ I am a former Aerospace Engineer with a passion in Data Science/Machine Learning
 - 👯 I’m looking to collaborate on projects to learn new skills. 
 - 🤔 I’m looking for help with AWS cloud.
 - 📫 How to reach me: 
+
 email: navroz_lamba@hotmail.com
+
 linkedin: https://www.linkedin.com/in/navroz-lamba-92a77792/
 
 Technologies that fascinated me:
