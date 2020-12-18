@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋 Hello and Welcome to my GitHub! 
 
-<!--
-**navroz-lamba/navroz-lamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+I am a former Aerospace Engineer with a passion in Data Science/Machine Learning. I have experience in predictive analytics, data engineering, machine learning, cloud computing, and data structures and algorithms. My background as an engineer, entrepreneur, and data enthusiast makes me excited about efficiency and precision while having an avid desire to innovate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a greenfield project, Human Rights - Asylum Analysis. 
+- 🌱 I’m currently learning Data Science and Machine Learning at Lambda school. 
+- 👯 I’m looking to collaborate on projects to learn new skills. 
+- 🤔 I’m looking for help with AWS cloud.
+- 📫 How to reach me: 
+email: navroz_lamba@hotmail.com
+linkedin: https://www.linkedin.com/in/navroz-lamba-92a77792/
+
+Technologies that fascinated me:
+- FastAPI
+- Docker
+- AWS Cloud
+- Selenium
+- Plotly
+
