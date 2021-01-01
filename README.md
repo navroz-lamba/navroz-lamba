@@ -11,7 +11,7 @@ I am a former Aerospace Engineer with a passion in Data Science/Machine Learning
 
 - 📫 How to reach me: 
 
-portfolio-website: www.navrozlamba@yahoo.com
+portfolio-website: www.navrozlamba.com
 
 email: navroz_lamba@hotmail.com
 
