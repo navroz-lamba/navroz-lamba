@@ -12,7 +12,9 @@ I am a former Aerospace Engineer with a passion in Data Science/Machine Learning
 - 📫 How to reach me: 
 
 portfolio-website: www.navrozlamba@yahoo.com
+
 email: navroz_lamba@hotmail.com
+
 linkedin: https://www.linkedin.com/in/navroz-lamba-92a77792/
 
 Technologies that fascinated me:
@@ -46,7 +48,7 @@ Technologies that fascinated me:
 
 <p align="center">
   <a href = "https://github.com/navroz-lamba">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=navroz-lamba&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
@@ -60,5 +62,5 @@ Technologies that fascinated me:
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Navroz%20Lamba-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navroz-lamba-92a77792/)](https://www.linkedin.com/in/navroz-lamba-92a77792/) [![Twitter Badge](https://img.shields.io/badge/-@navroz0421-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Navroz21)](https://twitter.com/Navroz21) [![GitHub Badge](https://img.shields.io/badge/-@navroz-lamba-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/navroz-lamba)](https://github.com/kishan0725) [![Hotmail Badge](https://img.shields.io/badge/-@navroz_lamba-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:navroz_lamba@hotmail.com)](mailto:navroz_lamba@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Navroz%20Lamba-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navroz-lamba-92a77792/)](https://www.linkedin.com/in/navroz-lamba-92a77792/) [![Twitter Badge](https://img.shields.io/badge/-@navroz0421-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Navroz21)](https://twitter.com/Navroz21) [![GitHub Badge](https://img.shields.io/badge/-@navroz-lamba-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/navroz-lamba)](https://github.com/navroz-lamba) [![Hotmail Badge](https://img.shields.io/badge/-@navroz_lamba-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:navroz_lamba@hotmail.com)](mailto:navroz_lamba@hotmail.com) [![Medium Badge](https://img.shields.io/badge/-@lamba-navroz-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://lamba-navroz.medium.com/)](https://lamba-navroz.medium.com/)
 
