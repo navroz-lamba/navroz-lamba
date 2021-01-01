@@ -36,8 +36,10 @@ Technologies that fascinated me:
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="AWS-RDS"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" title="AWS-S3"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="AWS-EC2"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/heroku-1.svg" title="Heroku"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/slack-2.svg" title="Slack"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
