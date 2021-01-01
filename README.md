@@ -21,6 +21,7 @@ Technologies that fascinated me:
 - FastAPI
 - Docker
 - AWS Cloud
+- PostgreSQL
 - Selenium
 - Plotly
 
