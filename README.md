@@ -37,12 +37,13 @@ Technologies that fascinated me:
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="AWS-RDS"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="AWS-EC2"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" title="Docker"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/slack-2.svg" title="Slack"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-
+<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 
 ### GitHub Stats
 
@@ -62,5 +63,5 @@ Technologies that fascinated me:
 
 ### Follow me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Navroz%20Lamba-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navroz-lamba-92a77792/)](https://www.linkedin.com/in/navroz-lamba-92a77792/) [![Twitter Badge](https://img.shields.io/badge/-@navroz0421-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Navroz21)](https://twitter.com/Navroz21) [![Hotmail Badge](https://img.shields.io/badge/-@navroz_lamba-d54b3d?style=flat-circle&labelColor=d54b3d&logo=hotmail&logoColor=white&link=mailto:navroz_lamba@hotmail.com)](mailto:navroz_lamba@hotmail.com) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://lamba-navroz.medium.com/)](https://lamba-navroz.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Navroz%20Lamba-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navroz-lamba-92a77792/)](https://www.linkedin.com/in/navroz-lamba-92a77792/) [![Twitter Badge](https://img.shields.io/badge/-@navroz0421-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Navroz21)](https://twitter.com/Navroz21) [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://lamba-navroz.medium.com/)](https://lamba-navroz.medium.com/)
 
