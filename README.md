@@ -4,10 +4,10 @@ About me:
 
 I am a former Aerospace Engineer with a passion in Data Science/Machine Learning. I have experience in predictive analytics, data engineering, machine learning, cloud computing, and data structures and algorithms. My background as an engineer, entrepreneur, and data enthusiast makes me excited about efficiency and precision while having an avid desire to innovate. 
 
-- 🔭 I’m currently working on a greenfield project, Human Rights - Asylum Analysis. 
-- 🌱 I’m currently learning Data Science and Machine Learning at Lambda school. 
-- 👯 I’m looking to collaborate on projects to learn new skills. 
-- 🤔 I’m looking for a mentor in the tech field. 
+- 🔭 I’m currently working on a greenfield project, Human Rights - Asylum Analysis
+- 🌱 I’m currently learning Data Science and Machine Learning at Lambda school
+- 👯 I’m looking to collaborate on projects to learn new skills
+- 🤔 I’m looking for a mentor in the tech field
 
 - 📫 How to reach me: 
 
