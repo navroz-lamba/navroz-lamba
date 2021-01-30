@@ -13,7 +13,7 @@ I am a former Aerospace Engineer with a passion in Data Science/Machine Learning
 
 portfolio-website: www.navrozlamba.com
 
-email: navroz_lamba@hotmail.com
+email: lamba.navroz@gmail.com
 
 linkedin: https://www.linkedin.com/in/navroz-lamba-92a77792/
 
