@@ -4,7 +4,8 @@ About me:
 
 I am a former Aerospace Engineer with a passion in Data Science/Machine Learning. I have experience in predictive analytics, data engineering, machine learning, cloud computing, and data structures and algorithms. My background as an engineer, entrepreneur, and data enthusiast makes me excited about efficiency and precision while having an avid desire to innovate. 
 
-- 🔭 I’m currently working on a greenfield project at Human Rights First bulding a Asylum Adjudication Classifier.
+- My recent job was working at Human Rights First bulding an Asylum Adjudication Classifier.
+- 🔭 I am intersted to work in Finance and Marketing as I believe Machine Learning has a lot of potential in these domains, and it will be a good oppurtunity for me to contribute, learn and grow. 
 - 👯 I’m looking to collaborate on projects to learn new skills.
 - 🤔 I’m looking for a mentor in the tech field.
 
@@ -22,7 +23,7 @@ Technologies that fascinated me:
 - AWS Cloud
 - PostgreSQL
 - Selenium
-- Plotly
+- Tableau
 
 # Worked with 
 
